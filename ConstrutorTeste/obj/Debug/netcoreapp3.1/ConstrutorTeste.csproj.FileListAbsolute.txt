@@ -1,0 +1,11 @@
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\bin\Debug\netcoreapp3.1\ConstrutorTeste.exe
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\bin\Debug\netcoreapp3.1\ConstrutorTeste.deps.json
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\bin\Debug\netcoreapp3.1\ConstrutorTeste.runtimeconfig.json
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\bin\Debug\netcoreapp3.1\ConstrutorTeste.runtimeconfig.dev.json
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\bin\Debug\netcoreapp3.1\ConstrutorTeste.dll
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\bin\Debug\netcoreapp3.1\ConstrutorTeste.pdb
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\obj\Debug\netcoreapp3.1\ConstrutorTeste.csprojAssemblyReference.cache
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\obj\Debug\netcoreapp3.1\ConstrutorTeste.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\obj\Debug\netcoreapp3.1\ConstrutorTeste.AssemblyInfo.cs
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\obj\Debug\netcoreapp3.1\ConstrutorTeste.dll
+C:\Users\emers\source\repos\ConstrutorTeste\ConstrutorTeste\obj\Debug\netcoreapp3.1\ConstrutorTeste.pdb
